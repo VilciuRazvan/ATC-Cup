@@ -70,4 +70,4 @@ Unde:
 ---
 ---
 ## Detalii tehnice
-Pentru detalii în legătură cu funcțiile folosite se pot inspecta comentariile fișierele _liste.c_, _stack.c_, _queue.c_, _BST.c_, _files.c_, cât și _miscellaneous.c_
+Pentru detalii în legătură cu funcțiile folosite se pot inspecta comentariile din fișierele _liste.c_, _stack.c_, _queue.c_, _BST.c_, _files.c_, cât și _miscellaneous.c_
