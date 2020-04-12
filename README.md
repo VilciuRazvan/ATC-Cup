@@ -43,7 +43,7 @@ Exemplu:
 > 1 1 1 1 1
 
 > Haas Tommy 56
- 
+
 > Federer Roger 87
 > 
 * Se vor rezolva toate cerințele, iar datele de intrare pentru cerința 5 sunt “Haas Tommy 56” și “Federer Roger 87”
